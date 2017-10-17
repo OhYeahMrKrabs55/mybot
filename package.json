@@ -1,7 +1,7 @@
 {
-  "name": "Test",
-  "description": "Test",
-  "version": "0.0.0",
+  "name": "script-seller",
+  "description": "bot",
+  "version": "1.0.0",
   "main": "app",
   "scripts": {
     "start": "node app"
